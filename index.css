@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #e3e3e3;
+  position: relative;
+}
+
+.container{
+  border: 2px #000 solid;
+  border-radius: 4%;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  margin-top: 250px;
+  position: absolute;
+  top:auto;
+  bottom: auto;
+  left: auto;
+  right: auto;
+  /* text-align: center; */
+}
+.row{
+  margin-bottom: 20px;
+}
+#first-col{
+  background-color: #28aaa8
+}
+#second-col{
+  background-color: #4abebd;
+}
+.row{
+  height: 200px
+}
+#sec-row{
+  height: 250px
+}
